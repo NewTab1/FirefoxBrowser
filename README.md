@@ -1,2 +1,0 @@
-# FirefoxBrowser
-Something Something Something
